@@ -1,0 +1,12 @@
+E:\DotNetWork\TeleperformaceHomework\Hafta_5\Hafta.5\src\Core\Hafta.5.Domain\bin\Debug\net6.0\Hafta.5.Domain.deps.json
+E:\DotNetWork\TeleperformaceHomework\Hafta_5\Hafta.5\src\Core\Hafta.5.Domain\bin\Debug\net6.0\Hafta.5.Domain.dll
+E:\DotNetWork\TeleperformaceHomework\Hafta_5\Hafta.5\src\Core\Hafta.5.Domain\bin\Debug\net6.0\Hafta.5.Domain.pdb
+E:\DotNetWork\TeleperformaceHomework\Hafta_5\Hafta.5\src\Core\Hafta.5.Domain\obj\Debug\net6.0\Hafta.5.Domain.csproj.AssemblyReference.cache
+E:\DotNetWork\TeleperformaceHomework\Hafta_5\Hafta.5\src\Core\Hafta.5.Domain\obj\Debug\net6.0\Hafta.5.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetWork\TeleperformaceHomework\Hafta_5\Hafta.5\src\Core\Hafta.5.Domain\obj\Debug\net6.0\Hafta.5.Domain.AssemblyInfoInputs.cache
+E:\DotNetWork\TeleperformaceHomework\Hafta_5\Hafta.5\src\Core\Hafta.5.Domain\obj\Debug\net6.0\Hafta.5.Domain.AssemblyInfo.cs
+E:\DotNetWork\TeleperformaceHomework\Hafta_5\Hafta.5\src\Core\Hafta.5.Domain\obj\Debug\net6.0\Hafta.5.Domain.csproj.CoreCompileInputs.cache
+E:\DotNetWork\TeleperformaceHomework\Hafta_5\Hafta.5\src\Core\Hafta.5.Domain\obj\Debug\net6.0\Hafta.5.Domain.dll
+E:\DotNetWork\TeleperformaceHomework\Hafta_5\Hafta.5\src\Core\Hafta.5.Domain\obj\Debug\net6.0\refint\Hafta.5.Domain.dll
+E:\DotNetWork\TeleperformaceHomework\Hafta_5\Hafta.5\src\Core\Hafta.5.Domain\obj\Debug\net6.0\Hafta.5.Domain.pdb
+E:\DotNetWork\TeleperformaceHomework\Hafta_5\Hafta.5\src\Core\Hafta.5.Domain\obj\Debug\net6.0\ref\Hafta.5.Domain.dll
